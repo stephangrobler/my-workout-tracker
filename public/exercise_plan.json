@@ -1,0 +1,180 @@
+{
+    "workout_routine": [
+      {
+        "day": 1,
+        "exercises": [
+          {
+            "exercise": "Resistance Band Squat",
+            "sets": 3,
+            "reps": 15,
+            "rest": "60-sec",
+            "guide": "https://example.com/guide/resistance-band-squat"
+          },
+          {
+            "exercise": "Resistance Band Bent-over Row",
+            "sets": 3,
+            "reps": 12,
+            "rest": "60-sec",
+            "guide": "https://example.com/guide/resistance-band-bent-over-row"
+          },
+          {
+            "exercise": "Resistance Band Overhead Press",
+            "sets": 2,
+            "reps": 12,
+            "rest": "60-sec",
+            "guide": "https://example.com/guide/resistance-band-overhead-press"
+          },
+          {
+            "exercise": "Resistance Band Floor Press",
+            "sets": 3,
+            "reps": 12,
+            "rest": "60-sec",
+            "guide": "https://example.com/guide/resistance-band-floor-press"
+          },
+          {
+            "exercise": "Single-arm Standing Bicep Curl",
+            "sets": 2,
+            "reps": 10,
+            "rest": "45-sec",
+            "guide": "https://example.com/guide/single-arm-standing-bicep-curl"
+          }
+        ]
+      },
+      {
+        "day": 2,
+        "exercises": [
+          {
+            "exercise": "Resistance Band Standard Pushup",
+            "sets": 2,
+            "reps": 10,
+            "rest": "60-sec",
+            "guide": "https://example.com/guide/resistance-band-standard-pushup"
+          },
+          {
+            "exercise": "Resistance Band Deadlift",
+            "sets": 3,
+            "reps": "6-8",
+            "rest": "60-sec",
+            "guide": "https://example.com/guide/resistance-band-deadlift"
+          },
+          {
+            "exercise": "Resistance Band Good Morning",
+            "sets": 2,
+            "reps": 10,
+            "rest": "60-sec",
+            "guide": "https://example.com/guide/resistance-band-good-morning"
+          },
+          {
+            "exercise": "Banded Lateral Raises",
+            "sets": 3,
+            "reps": 10,
+            "rest": "45-sec",
+            "guide": "https://example.com/guide/banded-lateral-raises"
+          },
+          {
+            "exercise": "Banded Overhead Tricep Extension",
+            "sets": 3,
+            "reps": 10,
+            "rest": "45-sec",
+            "guide": "https://example.com/guide/banded-overhead-tricep-extension"
+          }
+        ]
+      },
+      {
+        "day": 3,
+        "exercises": [],
+        "note": "Rest day"
+      },
+      {
+        "day": 4,
+        "exercises": [
+          {
+            "exercise": "Resistance Band Floor Press",
+            "sets": 3,
+            "reps": 10,
+            "rest": "60-sec",
+            "guide": "https://example.com/guide/resistance-band-floor-press"
+          },
+          {
+            "exercise": "Seated Resistance Band Row",
+            "sets": 3,
+            "reps": 10,
+            "rest": "60-sec",
+            "guide": "https://example.com/guide/seated-resistance-band-row"
+          },
+          {
+            "exercise": "Banded Upright Row",
+            "sets": 3,
+            "reps": 10,
+            "rest": "45-sec",
+            "guide": "https://example.com/guide/banded-upright-row"
+          },
+          {
+            "exercise": "Resistance Band Hammer Curl",
+            "sets": 3,
+            "reps": 10,
+            "rest": "45-sec",
+            "guide": "https://example.com/guide/resistance-band-hammer-curl"
+          },
+          {
+            "exercise": "Standing Oblique Crunch",
+            "sets": 2,
+            "reps": 10,
+            "rest": "30-sec",
+            "guide": "https://example.com/guide/standing-oblique-crunch"
+          }
+        ]
+      },
+      {
+        "day": 5,
+        "exercises": [
+          {
+            "exercise": "Banded Curtsy Lunge to Squat",
+            "sets": 2,
+            "reps": 10,
+            "rest": "1-min",
+            "guide": "https://example.com/guide/banded-curtsy-lunge-to-squat"
+          },
+          {
+            "exercise": "Resistance Band Romanian Deadlift",
+            "sets": 2,
+            "reps": 10,
+            "rest": "1-min",
+            "guide": "https://example.com/guide/resistance-band-romanian-deadlift"
+          },
+          {
+            "exercise": "Banded Lat Pulldown",
+            "sets": 3,
+            "reps": 10,
+            "rest": "1-min",
+            "guide": "https://example.com/guide/banded-lat-pulldown"
+          },
+          {
+            "exercise": "Banded Triangle Pushup",
+            "sets": 3,
+            "reps": 10,
+            "rest": "1-min",
+            "guide": "https://example.com/guide/banded-triangle-pushup"
+          },
+          {
+            "exercise": "Resistance Band Bent-Over Reverse Fly",
+            "sets": 3,
+            "reps": 10,
+            "rest": "1-min",
+            "guide": "https://example.com/guide/resistance-band-bent-over-reverse-fly"
+          }
+        ]
+      },
+      {
+        "day": 6,
+        "exercises": [],
+        "note": "Rest day"
+      },
+      {
+        "day": 7,
+        "exercises": [],
+        "note": "Rest day"
+      }
+      
+    ]
+  }
